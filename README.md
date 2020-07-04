@@ -1,2 +1,2 @@
 # NEW-SMTP-CLASS
-PHP 7 AND OR NEW SMTP CLASS
+For PHP 7 and above versions
